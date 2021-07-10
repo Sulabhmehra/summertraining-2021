@@ -5,6 +5,6 @@ run pip3 install scikit-learn
 run pip3 install pandas
 
 copy marks.py /
-copy zz.z1 /
+copy zz.py /
 
 cmd python3 zz.z1
